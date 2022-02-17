@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Grow your startup</title>
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="icon" href="images/arts/logo.png">
+    <link rel="icon" href="images/arts/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
     <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
