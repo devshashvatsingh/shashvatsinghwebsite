@@ -425,7 +425,7 @@ We stand out for our top development skills but we are much more than that. We a
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                We always mentionevery term related to advance and complete payment in our proposal.
+                We always mention every term related to advance and complete payment in our proposal.
                 Generally we take 30% advance of total cost of project. Rest 70% you will only pay when you are satisfied with our work.
                 At the end we present final preview of product, after that you can do complete payment.
               </div>
