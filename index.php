@@ -827,6 +827,8 @@ jQuery('#contactform').on('submit',function(e){
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
+<!-- Payment gateway integration code -->
+
 <!-- <div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_IwyT2Jh9URDP8u/view" data-text="Pay Now" data-color="#528FF0" data-size="large">
   <script>
     (function(){
