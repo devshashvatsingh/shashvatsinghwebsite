@@ -70,7 +70,7 @@ a{
       <!-- START THE CONTENT FOR THE INTRO  -->
       <div class="col-md-6 intros text-start">
         <h1 class="display-2">
-          <span class="display-2--intro">Hey!, I'm Shashvat</span>
+          <span class="display-2--intro">Grow your Business</span>
           <span class="display-2--description lh-base">
             Building trust by contributing my services is my first priority.
           </span>
@@ -103,7 +103,7 @@ a{
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////
                              START SECTION 3 - THE CAMPANIES SECTION
 ////////////////////////////////////////////////////////////////////////////////////////////////////-->
-  <h4 class="fw-bold lead mb-3">Feel free to call us any time. We provide <imp style="color:">24 x 7</imp> services. Work 7 days a week.</h4>
+  <center><h4 class="fw-bold lead mb-3">Feel free to call us any time. We provide <imp style="color:">24 x 7</imp> services. Work 7 days a week.</h4></center>
   <div class="heading-line mb-5"></div>
   <section id="campanies" class="campanies">
     <div class="container">
